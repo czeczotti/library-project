@@ -2,7 +2,7 @@ import java.util.Date;
 
 public class Loan {
 
-    // class that represents a single book loan by user
+    // class that represents a single book loan by user yoyo
     
     private final Book book;
     private final User user;
