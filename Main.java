@@ -24,6 +24,8 @@ public class Main {
         }
         
         // creating many users
+        // Lukasz to mistrz swiata
+    
         List<User> usersToAdd = List.of( // 11. creating a list of users to add, User data type
                 new User(1, "Patryk Świetny Czeczot", "czeczotpatryk@gmail.com"), // 12. creating a new User objects data type, and going into constructor for each user
                 new User(2, "Patrick The Notorious Czeczorri", "7patrick10@gmail.com") // Java calls toString() method for every created user

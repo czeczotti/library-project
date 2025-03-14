@@ -2,7 +2,7 @@ public class Book {
 
     // class that represents a book in system (title, author, status..)
     // Book has a status -> Enums (AVAILABLE, BORROWED)
-    
+    // elo
     private final int id;
     private final String title;
     private final String author;

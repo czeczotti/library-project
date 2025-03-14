@@ -5,7 +5,7 @@ import java.util.Optional;
 public class LibraryService {
     
     // responsible for: adding books to a library; user registration; searching books and users; checking if book is available or not
-    
+    // elo
     private final List<Book> books; // list of books
     private final List<User> users;
     

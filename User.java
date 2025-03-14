@@ -5,7 +5,7 @@ public class User {
 
     // class that represents the user of library, who can loan/return the books
     // User has a list of borrowed books -> List<Loan>
-    
+    // yo
     private final int id;
     private final String name;
     private final String email;
